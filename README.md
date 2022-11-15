@@ -10,12 +10,12 @@ neko
 
 ## 2.リスト
 - Hoge
-    -hoge
-    -hogehoge
+    - hoge
+    - hogehoge
 - Fuga
-    -fuga
-    -fugafuga
-    
+    - fuga
+    - fugafuga
+
 
 # References
 * https://qiita.com/mozuku_com/items/db430bcb66fd1bbc5c49
