@@ -24,8 +24,15 @@ neko
 * [x]checked
 * []no
 
-
-
+## 4.コード
+### C言語
+```
+#include<stdio.h>
+int main(void){
+    printf("neko");
+    return 0;
+}
+```
 
 
 
