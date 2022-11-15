@@ -21,8 +21,8 @@ neko
 * hoge
 
 ## 3.チェックボックス
-* [x]checked
-* []no
+* [x] checked
+* [] no
 
 ## 4.コード
 ### C言語
