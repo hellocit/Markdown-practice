@@ -43,8 +43,11 @@ int main(void){
 </details>
 
 ## 7.mermaidを使ってみよう
+
 ## 8.目次
 
+## 9.太字
+皆さんの **大好きな** 公式
 
 # References
 * https://qiita.com/mozuku_com/items/db430bcb66fd1bbc5c49
