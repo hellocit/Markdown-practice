@@ -51,3 +51,4 @@ int main(void){
 
 # References
 * https://qiita.com/mozuku_com/items/db430bcb66fd1bbc5c49
+* https://www.wakuwakubank.com/posts/861-git-markdown/
