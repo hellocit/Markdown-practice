@@ -36,11 +36,9 @@ int main(void){
 ## 5.リンク
 [グーグル](https://www.google.co.jp/)
 
-
-
-
-
-
+## .6詳細ページ
+## .7mermaidを使ってみよう
+## .8目次
 
 
 # References
