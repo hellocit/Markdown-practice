@@ -37,10 +37,10 @@ int main(void){
 [グーグル](https://www.google.co.jp/)
 
 ## 6.詳細ページ
-<detail>
+<details>
 <summary>inu</summary>
 猫かわいい
-</detail>
+</details>
 
 ## 7.mermaidを使ってみよう
 ## 8.目次
