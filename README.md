@@ -38,11 +38,10 @@ int main(void){
 
 ## 6.詳細ページ
 <detail>
-<summary>
-inu
-</summary>
+<summary>inu</summary>
 猫かわいい
 </detail>
+
 ## 7.mermaidを使ってみよう
 ## 8.目次
 
