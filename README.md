@@ -49,6 +49,12 @@ int main(void){
 ## 9.太字
 皆さんの **大好きな** 公式
 
+## 10.HTMLの書き方
+それでも書けるが細かい仕様が異なるので注意が必要．[1]
+
 # References
 * https://qiita.com/mozuku_com/items/db430bcb66fd1bbc5c49
 * https://www.wakuwakubank.com/posts/861-git-markdown/
+* https://qiita.com/jkjoluvjlajelljicvjzojieoaid/items/01cd7ff819bc2e69b652
+* https://github.com/higuma/markdown_cheat_sheet
+* [1] https://qiita.com/higuma/items/3344387e0f2cce7f2cfe
